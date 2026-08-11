@@ -1,4 +1,4 @@
-from counterfactual import CounterfactualEngine
+from causal.counterfactual import CounterfactualEngine
 
 
 engine = CounterfactualEngine(

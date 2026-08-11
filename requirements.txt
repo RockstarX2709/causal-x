@@ -20,6 +20,6 @@ psycopg2-binary
 pgvector
 openai
 langgraph
-httpx
+httpx<0.28
 pytest
 plotly
