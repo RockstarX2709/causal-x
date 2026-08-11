@@ -21,4 +21,5 @@ pgvector
 openai
 langgraph
 httpx
-pytestplotly
+pytest
+plotly
